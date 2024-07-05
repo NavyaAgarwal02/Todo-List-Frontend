@@ -22,7 +22,7 @@ This project is a simple and interactive To-Do List application built using HTML
 3. Open the index.html file in your web browser to view and use the application.
 
 ## Screenshots
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](screenshot.png)
 
 ## Live Demo
 Check out the live demo [here](https://todo-list-frontend-9xtjv30i7-navya-agarwal-projects.vercel.app/).
